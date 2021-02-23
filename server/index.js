@@ -14,12 +14,6 @@ app.use(cors());
 
 app.use('/posts',postRoutes )
 
-app.get('/',(req, res)=>{
-  res.send("Welcome to Memory-API")
-})
-
-
-
 const start = async () => {
   try {
     await mongoose.connect(config.get("dbUrl"), {

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Memories-diary/static/css/main.5a865a04.chunk.css",
+    "main.js": "/Memories-diary/static/js/main.28e88c6f.chunk.js",
+    "main.js.map": "/Memories-diary/static/js/main.28e88c6f.chunk.js.map",
+    "runtime-main.js": "/Memories-diary/static/js/runtime-main.3235d08c.js",
+    "runtime-main.js.map": "/Memories-diary/static/js/runtime-main.3235d08c.js.map",
+    "static/js/2.aa2173ba.chunk.js": "/Memories-diary/static/js/2.aa2173ba.chunk.js",
+    "static/js/2.aa2173ba.chunk.js.map": "/Memories-diary/static/js/2.aa2173ba.chunk.js.map",
+    "index.html": "/Memories-diary/index.html",
+    "static/css/main.5a865a04.chunk.css.map": "/Memories-diary/static/css/main.5a865a04.chunk.css.map",
+    "static/js/2.aa2173ba.chunk.js.LICENSE.txt": "/Memories-diary/static/js/2.aa2173ba.chunk.js.LICENSE.txt",
+    "static/media/memories.9cfa8a46.png": "/Memories-diary/static/media/memories.9cfa8a46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3235d08c.js",
+    "static/js/2.aa2173ba.chunk.js",
+    "static/css/main.5a865a04.chunk.css",
+    "static/js/main.28e88c6f.chunk.js"
+  ]
+}
